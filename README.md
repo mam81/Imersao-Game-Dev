@@ -1,8 +1,8 @@
 # Imersão Game Dev :video_game:
 
-#### Descrição: Projeto de um jogo - elaborado pela Alura - Plataforma de cursos online de tecnologia e realizado entre o período de 22/06/20 até 26/06/20
+### Descrição: Projeto de um jogo - elaborado pela Alura - Plataforma de cursos online de tecnologia e realizado entre o período de 22/06/20 até 26/06/20
 
-### Linguagem: JavaScript
+- #### Linguagem: **_JavaScript_**
 
 ##### Foi utilizado para a execução do projeto:
 
