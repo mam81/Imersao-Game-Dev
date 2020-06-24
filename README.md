@@ -8,6 +8,6 @@
 
 - [p5 web editor](https://editor.p5js.org/)
 
-###### Foi utilizado no uma biblioteca de colisões do p5.js -> collide2D:
+###### Foi utilizado no projeto,uma biblioteca de colisões do p5.js -> collide2D:
 
 - [collide2D](https://github.com/bmoren/p5.collide2D)
